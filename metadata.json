@@ -1,0 +1,6 @@
+{
+  "name": "Merch Mockup Generator",
+  "description": "Upload your logo and let AI seamlessly place it on products in realistic environments. Perfect for on-demand print shops and merchandise testing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
